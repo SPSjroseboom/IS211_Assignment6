@@ -1,6 +1,6 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-"""assignment6 - conversions.py
+"""assignment6 - conversions_refactored.py
 Created on Fri Aug 16 19:36:42 2019
 @author: SPSjroseboom
 """
